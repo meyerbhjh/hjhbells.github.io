@@ -1,0 +1,39 @@
+periods:
+  - 1st Period
+  - 2nd Period
+  - 3rd Period
+  - 4th Period
+  - 5th Period
+  - 6th Period
+  - 7th Period
+  - 8th Period
+  - 9th Period
+  - 10th Period
+
+weekend:
+  name: Weekend
+  schedule: ~
+
+normal:
+  name: Normal Schedule
+  schedule:
+    - 8:30 1st Period
+    - 9:00 Free
+    - 9:03 2nd Period
+    - 9:43 Free
+    - 9:46 3rd Period
+    - 10:26 Free
+    - 10:29 4th Period
+    - 11:09 Free
+    - 11:12 5th Period
+    - 12:02 Free
+    - 12:03 6th Period
+    - 12:33 Free
+    - 12:36 7th Period
+    - 13:16 Free
+    - 13:19 8th Period
+    - 13:59 Free
+    - 14:02 9th Period
+    - 14:42 Free
+    - 14:45 10th Period
+    - 15:35 Free
